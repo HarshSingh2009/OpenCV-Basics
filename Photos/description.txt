@@ -1,0 +1,1 @@
+Inside the Photos Folder are a list of Photos used as experiments in the Python files
